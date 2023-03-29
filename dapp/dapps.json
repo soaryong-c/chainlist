@@ -299,5 +299,18 @@
       "tag":[
          "Money Market", "Farming"
       ]
+   },
+   {
+      "title":"pSTAKE",
+      "description":"pSTAKE",
+      "logo":"https://raw.githubusercontent.com/cosmostation/chainlist/master/dapp/image/mars.png",
+      "url":"https://cosmos.pstake.finance",
+      "chain":[
+         "persistence"
+      ],
+      "category":"Defi",
+      "tag":[
+         "Liquid Staking"
+      ]
    }
 ]
