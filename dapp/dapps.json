@@ -273,5 +273,31 @@
       "tag":[
          "NFT Marketplace", "NFT"
       ]
+   },
+   {
+      "title":"Stargaze",
+      "description":"Stargaze",
+      "logo":"https://raw.githubusercontent.com/cosmostation/chainlist/master/dapp/image/mars.png",
+      "url":"https://app.stargaze.zone",
+      "chain":[
+         "stargaze"
+      ],
+      "category":"NFT",
+      "tag":[
+         "Money Market", "Farming"
+      ]
+   },
+   {
+      "title":"Stride",
+      "description":"Stride",
+      "logo":"https://raw.githubusercontent.com/cosmostation/chainlist/master/dapp/image/mars.png",
+      "url":"https://app.stride.zone",
+      "chain":[
+         "stride"
+      ],
+      "category":"Defi",
+      "tag":[
+         "Money Market", "Farming"
+      ]
    }
 ]
