@@ -312,5 +312,18 @@
       "tag":[
          "Liquid Staking"
       ]
+   },
+   {
+      "title":"Junoswap",
+      "description":"Junoswap",
+      "logo":"https://raw.githubusercontent.com/cosmostation/chainlist/master/dapp/image/mars.png",
+      "url":"https://junoswap.com",
+      "chain":[
+         "juno"
+      ],
+      "category":"Defi",
+      "tag":[
+         "Defi"
+      ]
    }
 ]
