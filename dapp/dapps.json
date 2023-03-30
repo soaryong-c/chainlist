@@ -325,5 +325,18 @@
       "tag":[
          "Defi"
       ]
+   },
+   {
+      "title":"Onomy",
+      "description":"Onomy",
+      "logo":"https://raw.githubusercontent.com/cosmostation/chainlist/master/dapp/image/mars.png",
+      "url":"https://app.onomy.io/",
+      "chain":[
+         "onomy"
+      ],
+      "category":"Defi",
+      "tag":[
+         "Defi"
+      ]
    }
 ]
