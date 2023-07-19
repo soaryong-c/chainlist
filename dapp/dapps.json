@@ -341,5 +341,18 @@
 "tag": [
 "Interchain Launchpad"
 ]
+},
+{
+"title": "dezswap",
+"description": "swap",
+"logo": "https://raw.githubusercontent.com/cosmostation/chainlist/master/dapp/image/stream-swap.png",
+"url": "https://app.dezswap.io/trade/swap",
+"chain": [
+"xpla"
+],
+"category": "DeFi",
+"tag": [
+"Defi"
+]
 }
 ]
